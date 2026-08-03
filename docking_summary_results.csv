@@ -1,0 +1,6 @@
+Compound,Role,SDF_File,Pose_File,Binding_Affinity_kcal_mol,Target_PDB,Delta_vs_Celecoxib
+Celecoxib,Positive Control Benchmark,celecoxide.sdf,celecoix_pose1.pdb,-11.0,6COX,0.0
+D-Glucose,Negative Control Decoy,glucose.sdf,dglucose_pose1.pdb,-4.8,6COX,6.2
+Quercetin,Natural Lead,quercetine.sdf,qurecetin_pose1.pdb,-9.4,6COX,1.5999999999999996
+Apigenin,Natural Candidate,apegenin.sdf,apigenin_pose1.pdb,-9.0,6COX,2.0
+Resveratrol,Natural Candidate,resrevatol.sdf,resrevatol_pose1.pdb,-8.1,6COX,2.9000000000000004
