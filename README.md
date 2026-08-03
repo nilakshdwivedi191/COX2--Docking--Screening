@@ -44,6 +44,7 @@ Using **Auto Dock Vina** for molecular docking and **Python** for data processin
 
 > 💡 *Note: An interactive 3D viewer is available by downloading and opening [`quercetin_3d_view.html`](quercetin_3d_view.html) in any web browser.*
 
+https://nilakshdwivedi191.github.io/COX2--Docking--Screening/ - Click Here To Directly view 3D Model 
 ---
 
 ## 🛠️ Script Overview
